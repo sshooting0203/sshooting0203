@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 
 ## sshooting0203 💫
 
+### About Me
+🔭 Major : Computer Science
+
+🌎 Home Town : South Korea 🇰🇷
+
+🌱 Currently diving deeper into AI 
+
+<kbd>Quantization</kbd> 
+
+<kbd>Robustness of AI Models</kbd>
+
+## Snake Game
+
 ![snake gif](https://github.com/sshooting0203/sshooting0203/blob/output/github-contribution-grid-snake.svg)
 
-
-## Tech Stack
+## Tech Stack(Experienced)
 
 ### Language  
 <p>
