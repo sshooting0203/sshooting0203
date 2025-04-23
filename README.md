@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 <kbd>Robustness of AI Models</kbd>
 
 ## Snake Game
+<!-- Light mode -->
+![Snake animation](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
+<!-- Dark mode -->
+![Snake animation dark](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 ## Tech Stack(Experienced)
 
