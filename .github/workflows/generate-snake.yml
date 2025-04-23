@@ -14,19 +14,17 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVGs
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: sshooting0203
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Debug: Check generated files
+      - name: "Debug: Check generated files"
         run: |
           echo "=== File List ==="
           ls -al dist
-          echo "=== Light Mode SVG Preview ==="
+          echo "=== SVG Preview ==="
           head -n 20 dist/github-contribution-grid-snake.svg
 
       - name: Deploy to output branch
