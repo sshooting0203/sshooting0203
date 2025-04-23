@@ -28,13 +28,7 @@ Here are some ideas to get you started:
 
 ## Snake Game
 
-<!-- GitHub Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg">
-</picture>
-
+![GitHub Snake](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg?v=2)
 
 ## Tech Stack(Experienced)
 
