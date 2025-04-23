@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 ## Snake Game
 
-![Snake animation](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
 
 ## Tech Stack(Experienced)
 
