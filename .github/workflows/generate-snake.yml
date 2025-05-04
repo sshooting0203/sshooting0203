@@ -13,12 +13,12 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
+        
+      - name: Generate Snake GIF
         uses: Platane/snk@v3
         with:
           github_user_name: sshooting0203
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.gif
 
       - name: "Debug: Check generated files"
         run: |
