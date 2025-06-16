@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## sshooting0203 💫
 
 ### About Me
-🔭 Major : Computer Science
+🔭 Major : Computer Science(2022-)
 
 🌎 Home Town : South Korea 🇰🇷
 
@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 ### Framework / Library  
 <p>
+![image](https://github.com/user-attachments/assets/aec6286e-ec64-4dc4-b615-7e0c8ef9217f)
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
