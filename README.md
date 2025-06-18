@@ -12,10 +12,7 @@
 
 <kbd>Quantization</kbd> 
 
-## Snake Game
-
 ![snake gif](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
-
 
 ## Tech Stack(Experienced)
 
@@ -68,13 +65,22 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-## Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshooting0203&layout=normal&theme=apprentice&langs_count=5&exclude_repo=WeITDataAnalysis&hide_progress=true)
+## Stats
 
-## Git Stats
-![sshooting's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshooting0203&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshooting0203&theme=apprentice&langs_count=3&exclude_repo=WeITDataAnalysis&hide_progress=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sshooting0203&show_icons=true&theme=tokyonight&title_color=FFFFFF&text_color=878787" />
+    </td>
+    <td>
+      <a href="https://solved.ac/profile/sshl505" target="_blank">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sshl505" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## BOJ
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sshl505)](https://solved.ac/wke1wke1)
 
