@@ -10,8 +10,6 @@
 
 🌱 Currently diving deeper into AI 
 
-<kbd>Quantization</kbd> 
-
 ![snake gif](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
 
 ## Tech Stack(Experienced)
