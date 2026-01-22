@@ -1,10 +1,11 @@
 ## sshooting0203 💫
 
-🔭 Major : Computer Science(undergraduate)
+🔭 Major : Soongsil University(CSE)(undergraduate)
 
 🌎 Home Town : South Korea 🇰🇷
 
-🧐 She is crazy about AI
+🧐 Name : Harim Song 
+
 
 ![snake gif](https://raw.githubusercontent.com/sshooting0203/sshooting0203/output/github-contribution-grid-snake.svg)
 
